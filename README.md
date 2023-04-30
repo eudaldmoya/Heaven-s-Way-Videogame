@@ -1,2 +1,2 @@
 # Heaven-s-Way-Videogame
-University project: (Unity3D) Heaven's Way is a videogame about having to solve puzzles in order to enter Heaven.
+University project: (Unity3D) Heaven's Way is a videogame about an unknow character who just passed away and will have to solve puzzles to be able to decide its future on heaven or hell.
